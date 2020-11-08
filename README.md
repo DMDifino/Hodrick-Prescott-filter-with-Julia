@@ -2,15 +2,15 @@
 
 In this repository I have built a simple code for a Hodrick-Prescott filter<sup>[1](#footnote1)</sup> using Julia. The solution for
 
-![](assets/formula1.png)
+![](assets/formula1.svg)
 
 is given by (in matrix notation)<sup>[2](#footnote2)</sup>:
 
-![](assets/formula2.png)
+![](assets/formula2.svg)
 
 where
 
-![](assets/formula3.png)
+![](assets/formula3.svg)
 
 The code used is:
 
